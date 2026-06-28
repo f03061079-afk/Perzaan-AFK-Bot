@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+  "server":FarhanAnsari9.aternos.me:18487 {
+    "ip": "FarhanAnsari9.aternos.me",
+    "port": 18487,
     "version": "1.21.1"
   },
   "position": {
